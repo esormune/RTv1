@@ -1,0 +1,8 @@
+#obj	light
+1		1
+#camera	pos
+camera	0.0	-10.0	-2.0
+#light	pos						intensity		r	g	b
+light	-5.0	-10.0	-5.0	1.0				1.0	1.0	1.0
+#object	shape	translation		rotate			scale			r	g	b
+object	sphere	0.0	0.0	0.0		0.0	0.0	0.0		1.0	1.0	1.0		1.0	0.0	0.0
